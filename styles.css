@@ -13,3 +13,14 @@ h1 {
     border: 3px dashed darkcyan;
 }
 
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: inline-block;
+    border-bottom: 2px dotted fuchsia;
+}
+
